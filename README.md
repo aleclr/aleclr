@@ -2,7 +2,7 @@
 Aspiring full-stack developer with hands-on experience building web apps using React, Node.js, and Java.<br>Passionate about problem-solving, clean code, and collaborative agile workflows (SCRUM). <br>Strong design background adds a unique eye for UI/UX.<br>Currently expanding backend expertise with databases and Spring.  
 
 
-## 🌐 Socials:
+## 🌐 Lets Connect! Find me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alecrondel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alec.rondel@fatec.sp.gov.br) 
 
 # 💻 Tech Stack:
