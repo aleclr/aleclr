@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring full-stack developer with hands-on experience building web apps using React, Node.js, and Java.<br>Passionate about problem-solving, clean code, and collaborative agile workflows (SCRUM). Strong design background adds a unique eye for UI/UX.<br>Currently expanding backend expertise with databases and Spring.  
+Aspiring full-stack developer with hands-on experience building web apps using React, Node.js, and Java.<br>Passionate about problem-solving, clean code, and collaborative agile workflows (SCRUM). <br>Strong design background adds a unique eye for UI/UX.<br>Currently expanding backend expertise with databases and Spring.  
 
 
 ## 🌐 Socials:
